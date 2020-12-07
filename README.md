@@ -1,2 +1,2 @@
 # atmel
-8 bits AVR microcontrollers projects
+8 bit AVR microcontrollers projects
